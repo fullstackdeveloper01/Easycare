@@ -1,0 +1,2 @@
+[08-Aug-2023 07:13:00 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.29. in /home/easycare/public_html/project/vendor/composer/platform_check.php on line 24
+[08-Aug-2023 07:13:40 UTC] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 8.0.29. in /home/easycare/public_html/project/vendor/composer/platform_check.php on line 24
